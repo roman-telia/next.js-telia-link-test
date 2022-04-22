@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@teliads/components": "17.2.3",
+    "@teliads/components": "17.2.5",
     "next": "12.1.5",
     "node-html-parser": "5.3.3",
     "react": "18.0.0",

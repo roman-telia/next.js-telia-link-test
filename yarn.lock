@@ -144,22 +144,22 @@
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.0.8.tgz#be3e914e84eacf16dbebd311c0d0b44aa1174c64"
   integrity sha512-ZK5v4bJwgXldAUA8r3q9YKfCwOqoHTK/ZqRjSeRXQrBXWouoPnS4MQtgC4AXGiiBuUu5wxrRgTlv0ktmM4P1Aw==
 
-"@stencil/core@2.10.0":
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/@stencil/core/-/core-2.10.0.tgz#acf44b9ae6578a20f0d09bf94296e833beadc885"
-  integrity sha512-15rWMTPQ/sp0lSV82HVCXkIya3QLN+uBl7pqK4JnTrp4HiLrzLmNbWjbvgCs55gw0lULbCIGbRIEsFz+Pe/Q+A==
+"@stencil/core@2.15.1":
+  version "2.15.1"
+  resolved "https://registry.yarnpkg.com/@stencil/core/-/core-2.15.1.tgz#ed308d2f48c086aec63c63c33b915702036b9aee"
+  integrity sha512-NYjRwQnjzscyFfqK+iIwRdr/dgYn33u6KE7kyQWdi7xsCkqMHalXYgJlN/QBQ9PN3qXmXKeBrJNG8EkNdCbK5g==
 
 "@stencil/react-output-target@0.3.1":
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/@stencil/react-output-target/-/react-output-target-0.3.1.tgz#dc9cc2fea32d0e30474a87fcb2a447f90ab78696"
   integrity sha512-6d9pPhyajFfdxkqU/pPP2SzI7wn+EklySQc4KXlI/xcdvC2H9BzLmhmR40fR1q2TQoJbJui/nvSWhbYqkE3OBQ==
 
-"@teliads/components@17.2.3":
-  version "17.2.3"
-  resolved "https://registry.yarnpkg.com/@teliads/components/-/components-17.2.3.tgz#9f085f22232ed9b0dc4e604a175cfb30d47e5d8f"
-  integrity sha512-dKvAaIzTF0ftNhWrZ19aKl9H2cxKEs0qVcYhGvrk+ndi1G5IaUIYnypO0v5AmkDQP3SbdtKWRaqyxWsZjVmF2g==
+"@teliads/components@17.2.5":
+  version "17.2.5"
+  resolved "https://registry.yarnpkg.com/@teliads/components/-/components-17.2.5.tgz#376746663e5ae7147a1f5852a377530e7049fdc7"
+  integrity sha512-YW8wGo85CNNwnzkArXq6eP1oig4/994erncpVu5T80JAlmrpfGNYHsxmPhDHgXa17aLZ44HGxDODEaYJ21pvYw==
   dependencies:
-    "@stencil/core" "2.10.0"
+    "@stencil/core" "2.15.1"
     "@stencil/react-output-target" "0.3.1"
     "@teliads/icons" "^8.3.2-rc.0"
     chart.js "3.6.2"
